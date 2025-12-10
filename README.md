@@ -3,7 +3,7 @@ INI module for V. It uses the [ini.h](https://github.com/mattiasgustavsson/libs/
 
 ### Installation
 ```
-$ v install --git https://github.com/doccaico/ini-v
+$ v install --git https://github.com/LiveMediaTools/ini-alpha
 ```
 
 ### Loading an ini file and retrieving values
@@ -89,3 +89,6 @@ fn main() {
 	os.write_file('new.ini', unsafe { cstring_to_vstring(data) })!
 }
 ```
+### Who Use
+[Temp Mail 365](https://temp-mail-365.com)
+[Collaigo](https://collaigo.com)
