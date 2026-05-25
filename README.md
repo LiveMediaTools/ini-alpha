@@ -92,3 +92,4 @@ fn main() {
 ### Who Use
 [Temp Mail 365](https://temp-mail-365.com)
 [Collaigo](https://collaigo.com)
+[PixelMax](https://pixelmax.art)
