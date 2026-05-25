@@ -1,7 +1,7 @@
 Module {
 	name: 'doccaico/ini'
 	description: ''
-	version: 'v0.1.0'
+	version: 'v0.2.0'
 	license: 'MIT'
 	dependencies: []
 }
